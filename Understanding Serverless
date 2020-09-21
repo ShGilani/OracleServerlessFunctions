@@ -4,6 +4,9 @@ It is built on Oracle Cloud Infrastructure OCI and powered by the 'Fn Project' -
 Serverless Architecture - doesn't mean there are no servers involved. It means you donot need to think about servers/infrastructure administration.
 You don't provision or maintain compute instances, and operating system software patches and upgrades are applied automatically.
 
+As our applications move toward serverless architectures, where the deployment units can be single functions, the benefits we get from application frameworks diminish.
+This is because we’ll likely spend less time on handling technical and infrastructural concerns, focusing our programming efforts toward the business capabilities our programs realize.
+
 Use cases:
 We dont use functions for bulky operations. They are generally lightweight
 
